@@ -1,0 +1,9 @@
+Version: 1.0.1
+  Balancing:
+    - Changed weight from 10 stacks to 1 to be consistent with other modules
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 04.06.2026
+  Features:
+    - Added Precision Module (+0.8% quality, -15% speed)
+    - Added Precision Module technology
