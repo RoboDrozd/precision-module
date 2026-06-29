@@ -10,7 +10,7 @@ data:extend({
  pictures={{size=64, filename="__precision-module__/graphics/icons/precision-module.png", scale=0.5}},
  category="quality",
  tier=1,
- effect={speed=-0.15, quality=0.08},
+ effect={speed=-0.15, quality=0.008},
  requires_beacon_alt_mode=false,
  inventory_move_sound=item_sounds.module_inventory_move,
  pick_sound=item_sounds.module_inventory_pickup,

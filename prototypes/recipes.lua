@@ -4,7 +4,7 @@ data:extend({
     name = "precision-module",
     icon = "__precision-module__/graphics/icons/precision-module.png",
     icon_size = 64,
-    category = "crafting",            
+    categories = { "crafting", "wood-processing" },
     enabled = false,
     allow_productivity = false,
     auto_recycle = false,
