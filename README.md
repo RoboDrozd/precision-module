@@ -1,6 +1,6 @@
 # Preciion module
 
-A [Factorio 2.0](https://www.factorio.com/) mod that adds a early way to use quality on the [Lignumis](https://mods.factorio.com/mod/lignumis) 
+A [Factorio 2.1](https://www.factorio.com/) mod that adds a early way to use quality on the [Lignumis](https://mods.factorio.com/mod/lignumis) 
 
 ## New Content
 
