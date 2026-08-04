@@ -13,17 +13,43 @@ data:extend({
     },
 
     prerequisites={
-        "lumber-mill",
         "steam-automation"
     },
 
     unit={
-        count=200,
+        count=40,
         ingredients={
             {"wood-science-pack",1},
             {"steam-science-pack",1}
         },
         time=30
+    }
+},
+{
+    type="technology",
+    name="gold-stromatolite-seed-propagation",
+    icon="__lignumis-assets__/graphics/icons/gold-stromatolite-seed.png",
+    icon_size=64,
+
+    effects={
+        {type="unlock-recipe", recipe="gold-stromatolite-seed-propagation"}
+    },
+
+    prerequisites={
+        "agricultural-science-pack",
+        "precision-module-tech"
+    },
+
+    unit={
+        count=100,
+        ingredients={
+            {"wood-science-pack",1},
+            {"steam-science-pack",1},
+            {"automation-science-pack",1},
+            {"logistic-science-pack",1},
+            {"agricultural-science-pack",1}
+        },
+        time=60
     }
 }
 })

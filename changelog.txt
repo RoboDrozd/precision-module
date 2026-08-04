@@ -1,12 +1,26 @@
+Version: 1.0.5
+Date: 04.08.2026
+  Features:
+    - Added "Gold Stromatolite Propagation" technology (requires wood, steam, red, green and agricultural science packs)
+    - Added "Gold Stromatolite Seed Propagation" recipe craftable in biochamber (wood-pulp, peat, nutrients, seeds)
+  Changes:
+    - Quality mod is now a mandatory dependency (2.1 requirement)
+---------------------------------------------------------------------------------------------------
+Version 1.0.4
+Date: 11.07.2026
+  Changes:
+    - Added gold stromatolite seed (x1) to recipe ingredients
+    - Quality Trees are now "recommended" mod (activated by default but optional) (new in 2.1)
+  Balancing:
+    - Technology research cost reduced from 200 to 40 packs
+    - Quality Trees mod is now a recommended dependency
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.3
-Date: 11.07.2026
   Changes:
     - Precision Module recipe is now craftable in the Lumber Mill (wood-processing category)
     - Added gold stromatolite seed (x1) to recipe ingredients
     - Quality Trees are now "recommended" mod (activated by default but optional) (new in 2.1)
   Balancing:
-    - Technology research cost reduced from 200 to 40 packs
     - Technology now requires only steam-automation (lumber-mill prerequisite removed)
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.2

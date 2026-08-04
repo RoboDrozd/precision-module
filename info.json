@@ -1,13 +1,14 @@
 {
   "name": "precision-module",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "title": "Precision Module",
   "author": "RoboDrozd",
   "description": "For strange people like me who really love quality spaghetti",
   "factorio_version": "2.1",
-   "dependencies": [
+  "dependencies": [
     "base >= 2.1.8",
     "space-age >= 2.1",
+    "quality >= 2.1",
     "lignumis",
     "+ quality-trees"
   ]
